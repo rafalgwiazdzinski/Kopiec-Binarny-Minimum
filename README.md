@@ -1,0 +1,1 @@
+# Kopiec-Binarny-Minimum
